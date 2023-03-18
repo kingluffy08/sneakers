@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sneakers/static/css/main.84945567.css",
+    "main.js": "/sneakers/static/js/main.53292d99.js",
+    "static/media/image-product-2.jpg": "/sneakers/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/sneakers/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/sneakers/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/sneakers/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/icon-delete.svg": "/sneakers/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
+    "index.html": "/sneakers/index.html",
+    "main.84945567.css.map": "/sneakers/static/css/main.84945567.css.map",
+    "main.53292d99.js.map": "/sneakers/static/js/main.53292d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84945567.css",
+    "static/js/main.53292d99.js"
+  ]
+}
